@@ -4,7 +4,7 @@ Script ini dapat digunakan untuk menghasilkan string acak berdasarkan sebuah tem
 Persyaratan
 Python 3.x
 Cara Menggunakan
-Jalankan script dengan menjalankan perintah python random_string_generator.py di terminal atau command prompt.
+Jalankan script dengan menjalankan perintah python extrap.py di terminal atau command prompt.
 
 Masukkan template. Template merupakan sebuah string yang dapat memiliki karakter x yang akan diganti dengan karakter acak.
 
