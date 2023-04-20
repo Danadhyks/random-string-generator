@@ -2,8 +2,11 @@ Random String Generator
 Script ini dapat digunakan untuk menghasilkan string acak berdasarkan sebuah template dan karakter unik yang dipilih oleh pengguna.
 
 Persyaratan
+
 Python 3.x
+
 Cara Menggunakan
+
 Jalankan script dengan menjalankan perintah python extrap.py di terminal atau command prompt.
 
 Masukkan template. Template merupakan sebuah string yang dapat memiliki karakter x yang akan diganti dengan karakter acak.
